@@ -1,6 +1,0 @@
-Someone elses schematic/pinout of XR/pint BMS connector and battery
-https://imgur.com/a/Sif7Wlo
-
-https://theboardgarage.com/articles/20s2p-vesc-onewheel-battery-build
-
-https://www.fungineers.us/blogs/bms-guide/fungineers-bms-user-guide
